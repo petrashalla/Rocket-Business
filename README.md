@@ -27,7 +27,7 @@
 
 Установить папку node_modules:
 ```
-npm run instal
+npm install
 ```
 
 Установить зависимости:
